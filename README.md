@@ -9,11 +9,8 @@
 </div>
 <div id="badges"align="center">
 
-###
-
 <img align="center" height="150" src="https://i.pinimg.com/736x/5a/42/c1/5a42c163cf9ef5312685002b63bcdc6d.jpg"  />
 
-###
 
 <br clear="both">
 
