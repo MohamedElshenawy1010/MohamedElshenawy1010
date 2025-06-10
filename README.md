@@ -10,10 +10,10 @@
 <p align="center">
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/graphs/contributors"><img src="https://img.shields.io/github/contributors/MohamedElshenawy1010/MohamedElshenawy1010?color=blue"></a>
+    <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/stargazers"><img src="https://img.shields.io/github/stars/MohamedElshenawy1010/MohamedElshenawy1010.svg?logo=github"></a>
+    <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/network/members"><img src="https://img.shields.io/github/forks/MohamedElshenawy1010/MohamedElshenawy1010.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedElshenawy1010.MohamedElshenawy1010" alt="visitors"/>   
 </p> 
 
 <br clear="both">
