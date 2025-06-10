@@ -9,7 +9,7 @@
 <img align="center" height="190" src="https://i.pinimg.com/736x/5a/42/c1/5a42c163cf9ef5312685002b63bcdc6d.jpg"  /> 
 <p align="center">
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/graphs/contributors"><img src="https://img.shields.io/github/contributors/MohamedElshenawy1010/MohamedElshenawy1010?color=blue"></a>
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/stargazers"><img src="https://img.shields.io/github/stars/MohamedElshenawy1010/MohamedElshenawy1010.svg?logo=github"></a>
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/network/members"><img src="https://img.shields.io/github/forks/MohamedElshenawy1010/MohamedElshenawy1010.svg?color=blue&logo=github"></a>
