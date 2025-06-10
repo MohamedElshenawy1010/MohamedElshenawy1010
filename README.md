@@ -23,10 +23,6 @@
 
 ###
 
-<p align="left">print('hallo would') !!</p>
-
-###
-
 <img src="https://raw.githubusercontent.com/MohamedElshenawy1010/MohamedElshenawy1010/output/snake.svg" alt="Snake animation" />
 
 ###
