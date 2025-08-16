@@ -1,8 +1,5 @@
 <h1 align="center">hey there 👋</h1>
 ##
-<div align="center">
-  < img src="https://i.pinimg.com/736x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" width="200" height="100" >
-</div>
 ##
 <p align="center">
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
