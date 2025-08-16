@@ -1,12 +1,9 @@
-<h5 align="left">Hello 👋!! My Name Is Mohamed Elshenawy__<𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸>__</h2>
-  
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/736x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg"  />
-</div>
-
+<h1 align="center">hey there 👋</h1>
 ##
-
-<img align="center" height="190" src="https://i.pinimg.com/736x/5a/42/c1/5a42c163cf9ef5312685002b63bcdc6d.jpg"  /> 
+<div align="center">
+  < img src="https://i.pinimg.com/736x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg" width="200" height="100" >
+</div>
+##
 <p align="center">
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
