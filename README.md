@@ -1,5 +1,4 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? </h1>
-<div id="header" align="center">
   
   <div id="header" align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
@@ -20,8 +19,9 @@ ___
 </p>
 
 ###
- <div id="header" align="center">
-    <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7](https://i.pinimg.com/736x/5a/42/c1/5a42c163cf9ef5312685002b63bcdc6d.jpg)" height=170 />
+ <div id="header" align="left">
+    <img src="https://i.pinimg.com/736x/5a/42/c1/5a42c163cf9ef5312685002b63bcdc6d.jpg" height=300 />
+ </div>   
 
 ###
 
