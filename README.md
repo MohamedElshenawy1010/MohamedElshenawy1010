@@ -4,7 +4,9 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi%F0%9F%91%8B+My+Name+Is+Mohamed+Elshenawy;Egyptian+Developer+%F0%9F%87%AA%F0%9F%87%AC;Web+developers+design+and+create+websites;computer+engineer" alt="Typing SVG" /> </a>
+
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -37,14 +39,8 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  
+     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="40" alt="android logo"  />
   <img width="12" />
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -62,7 +58,6 @@
 <div id="badges"align="center">
     <p align="center">
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/graphs/contributors"><img src="https://img.shields.io/github/contributors/MohamedElshenawy1010/MohamedElshenawy1010?color=blue"></a>
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/stargazers"><img src="https://img.shields.io/github/stars/MohamedElshenawy1010/MohamedElshenawy1010.svg?logo=github"></a>
     <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/network/members"><img src="https://img.shields.io/github/forks/MohamedElshenawy1010/MohamedElshenawy1010.svg?color=blue&logo=github"></a>
