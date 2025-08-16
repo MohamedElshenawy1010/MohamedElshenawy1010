@@ -1,6 +1,7 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? </h1>
 
 <div id="header" align="center">
+  <br>﷽ <br>
   
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
 
@@ -15,7 +16,8 @@
 
 ###
 
-<p align="left"> Hello 👋!! My Name Is Mohamed Elshenawy__<𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸>__<br>I.m from Egypt <br>Egyptian Developer 🇪🇬 <br>20 y\os_<br>🔭I’m working as Web developers design and create websites {Front-End+Back-End & Full-Stack}<br>🛠️computer engineer, I research, design, develop, and test computer systems and components, including hardware and software.<br><br>🌱I am learning now Cybersecurity on Kali Linux os<br><br> I enjoy working with:<br> 💻Windows<br>🐧 Linux<br>🌐 Network engineering & security<br>🔓 Penetration testing<br>💻 Web development & web scraping<br>
+<p align="left"> Hello 👋!! My Name Is Mohamed Elshenawy__<𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸>__<br>I.m from Egypt 🇪🇬  <br>Egyptian Developer<br>20 y\os_<br>🔭I’m working as Web developers design and create websites {Front-End+Back-End & Full-Stack}<br>🛠️computer engineer, I research, design, develop, and test computer systems and components, including hardware and software.<br><br>🌱I am learning now Cybersecurity on Kali Linux os<br><br> I enjoy working with: <br>🌐Web development & web scraping <br> 💻Windows<br>🐧 Linux <br>📱Andorid <br>🔓 Penetration testing <br>🥷Cybersecurity
+
 </p>
 
 ###
