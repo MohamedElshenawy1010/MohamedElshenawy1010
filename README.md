@@ -15,7 +15,8 @@
 
 ###
 
-<p align="left">Hello 👋!! My Name Is Mohamed Elshenawy__<𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸>__<br>I.m from Egypt <br>Egyptian Developer 🇪🇬 <br>20 y\os_<br>🔭I’m working as Web developers design and create websites {Front-End+Back-End & Full-Stack}<br>🛠️computer engineer, I research, design, develop, and test computer systems and components, including hardware and software.<br><br>🌱I am learning now Cybersecurity on Kali Linux os<br><br> I enjoy working with:<br> 💻Windows<br>🐧 Linux<br>🌐 Network engineering & security<br>🔓 Penetration testing<br>💻 Web development & web scraping<br>🎮 Game development & game modding</p>
+<p align="left"> Hello 👋!! My Name Is Mohamed Elshenawy__<𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸>__<br>I.m from Egypt <br>Egyptian Developer 🇪🇬 <br>20 y\os_<br>🔭I’m working as Web developers design and create websites {Front-End+Back-End & Full-Stack}<br>🛠️computer engineer, I research, design, develop, and test computer systems and components, including hardware and software.<br><br>🌱I am learning now Cybersecurity on Kali Linux os<br><br> I enjoy working with:<br> 💻Windows<br>🐧 Linux<br>🌐 Network engineering & security<br>🔓 Penetration testing<br>💻 Web development & web scraping<br>
+</p>
 
 ###
 
