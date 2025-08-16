@@ -1,29 +1,35 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? </h1>
+
+
   
-  <div id="header" align="center">
+<div id="header" align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi%F0%9F%91%8B+My+Name+Is+Mohamed+Elshenawy;Egyptian+Developer+%F0%9F%87%AA%F0%9F%87%AC;Web+developers+design+and+create+websites;computer+engineer" alt="Typing SVG" /> 
   </a>
-   </div>
-   
+  
+</div> 
+
+
 ___
+
 
 
 <h2 align="left">👩‍💻  About Me</h2>
 
-###
-
 <p align="left"> Hello 👋!! My Name Is Mohamed Elshenawy__<𝓚𝓪𝓴𝓪𝓻𝓸𝓽𝓸>__<br>I.m from Egypt 🇪🇬  <br>Egyptian Developer<br>20 y\os_<br>🔭I’m working as Web developers design and create websites {Front-End+Back-End & Full-Stack}<br>🛠️computer engineer, I research, design, develop, and test computer systems and components, including hardware and software.<br><br>🌱I am learning now Cybersecurity on Kali Linux os<br><br> I enjoy working with: <br>🌐Web development & web scraping <br> 💻Windows<br>🐧 Linux <br>📱Andorid <br>🔓 Penetration testing <br>🥷Cybersecurity
-
 </p>
 
 ###
+
+
  <div id="header" align="left">
     <img src="https://i.pinimg.com/736x/5a/42/c1/5a42c163cf9ef5312685002b63bcdc6d.jpg" height=300 />
  </div>   
 
+
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
@@ -57,11 +63,15 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
+
 ###
+
 
 <p align="left">Hello World!!</p>
 
+
 ###
+
 
 <div id="badges"align="center">
     <p align="center">
