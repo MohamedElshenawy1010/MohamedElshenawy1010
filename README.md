@@ -132,10 +132,7 @@ ____
   Github Stats
 </h2>
 
-<img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedElshenawy1010&theme=monokai" 
-  alt="Profile Details" width="100%">
-
+_______________________________
 <br>
 
 <p align="center">
