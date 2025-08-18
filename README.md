@@ -1,6 +1,9 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? </h1>
 
-  
+
+###
+
+
 <div id="header" align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
 
@@ -10,17 +13,17 @@
 </div> 
 
 
+###
+
+
 ___
-
-
-
 <h2 align="left"> 👩‍💻 About Me </h2>
 
-
+###
 <p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank"> 
-       
+###       
 
 <p align="left">
   
@@ -81,7 +84,9 @@ ___
 
 </div>
 
+
 ###
+
 
 <div id="badges"align="left">
     <p align="center">
@@ -90,9 +95,13 @@ ___
       <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/stargazers"><img src="https://img.shields.io/github/stars/MohamedElshenawy1010/MohamedElshenawy1010.svg?logo=github"></a>
       <a href="https://github.com/MohamedElshenawy1010/MohamedElshenawy1010/network/members"><img src="https://img.shields.io/github/forks/MohamedElshenawy1010/MohamedElshenawy1010.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedElshenawy1010.MohamedElshenawy1010" alt="visitors"/>   
-</p> 
+</p>
 
-<br clear="both">
+  
+###
+
+____
+<h3 align="left">🛠 📩 Connect with me</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -107,10 +116,16 @@ ___
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>  
 
+
+###
+
+____
+<p align="left">Hello World!!
+
+
 ###
 
 
-<p align="left">Hello World!!
 <div class="markdown-heading" dir="auto">
  <h2>
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
@@ -141,14 +156,23 @@ ___
 
 <br>
 
+
+###
+
+____
 <div>
    <p dir="auto" style="font-size: 24px; font-weight: bold;"><b>⚠ Note:</b> The <code>Top Languages</code> section is merely a representation of the languages used in my       public repositories and does not indicate my proficiency or experience level.</p>
 </div>
 
 
+###
 
+____
 <!--   green snake -->
 ![MohamedElshenawy1010's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+
+###
 
 
 <br>
@@ -163,13 +187,17 @@ ___
 
 </br>
 
+
+###
+
+
 <p align="center">
    **🔥 Thanks for visiting!!🔥** 
 </p> 
 
 
+###
 
-
-
+___
 
 
